@@ -1,5 +1,5 @@
 /target/
-/.idea/
+.idea
 
 ines (19 sloc)  290 Bytes
 
@@ -27,3 +27,4 @@ ines (19 sloc)  290 Bytes
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/spring_course_mvc_hibernate_aop.iml
